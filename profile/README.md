@@ -28,5 +28,6 @@ https://simpleicons.org/?q=vscode for icons
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
+![Sentry](https://img.shields.io/badge/-Sentry-black?style=flat-square&logo=sentry)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![VsCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
